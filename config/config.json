@@ -1,0 +1,1 @@
+{"delay_seconds":1,"pages":3,"start_page":1,"target_site":"books.toscrape.com (a public website built for scraping practice)","url_pattern":"https://books.toscrape.com/catalogue/page-{}.html"}
